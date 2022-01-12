@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kush1702
+- 👋 Hi, I’m kush
 - 🌱 I’m currently learning c++
 - �ECE student at NSUT,delhi...
 - 📫 How to reach me budhirajakush7@gmail.com
